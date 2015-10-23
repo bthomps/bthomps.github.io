@@ -275,7 +275,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.sv.sp.ssp.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sv.sp.ssp.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/service-proxy-static-endpoint-pattern/releases/download/1.0.0.0/FileToHTTPPattern.v1000.patternzip",
+                "patternzipURL" : "http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/integration/EventFilterPattern.patternzip",
                 "patternzipSize" : "777 KB"
               }
             ]
